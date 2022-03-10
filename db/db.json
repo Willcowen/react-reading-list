@@ -10,7 +10,31 @@
       "id": 2,
       "title": "The Last Thing He Told Me",
       "author": "Laura Dave",
-      "genre" : "Thriller"
+      "genre": "Thriller"
+    },
+    {
+      "title": "Harry Potter",
+      "author": "Harry Potthead",
+      "genre": "Science Fiction",
+      "id": 3
+    },
+    {
+      "title": "addad",
+      "author": "asdadasdasd",
+      "genre": "Science Fiction",
+      "id": 4
+    },
+    {
+      "title": "WIll",
+      "author": "dasdsad",
+      "genre": "Science Fiction",
+      "id": 5
+    },
+    {
+      "title": "Will is AWESOME",
+      "author": "Will",
+      "genre": "Horror",
+      "id": 6
     }
   ]
 }
